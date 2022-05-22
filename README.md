@@ -1,0 +1,1 @@
+# xcode-sketch-app-icon
