@@ -1,4 +1,4 @@
-# xcode-sketch-app-icon
+# How to Use Apple's App Icon Sketch Template for Xcode
 
 Developing an app for iOS requires you to import your app icon in a variety of file sizes and resolutions to fit different needs. Fortunately, Apple’s Design Resources comes with free Sketch and Photoshop templates. All you have to do is plug in your SVG icon once and you’ll get the full set of files to import into Xcode.
 
